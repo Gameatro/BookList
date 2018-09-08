@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book Search</string>
+    <string name="no_connection">Please check your internet connection</string>
+    <string name="not_found">Sorry, no book found</string>
+</resources>
