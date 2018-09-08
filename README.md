@@ -1,3 +1,3 @@
-# BookList
+# BookSearch
 Udacity project
-This is the Udacity Android networking project.
+My first Android App for getting list of books by searching key word.
